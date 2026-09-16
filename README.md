@@ -148,32 +148,7 @@ The dashboard provides a consolidated view of:
 
 This allows healthcare data to be explored from multiple analytical perspectives.
 
----
 
-## 📁 Repository Structure
-
-```text
-Hospital-HMIS-PowerBI-Analysis/
-│
-├── README.md
-│
-├── PowerBI/
-│   └── Hospital data analysis.pbix
-│
-├── SQL/
-│   └── hospital_data_analysis.sql
-│
-├── Presentation/
-│   └── Hospital_HMIS_PowerBI_Project_Presentation.pptx
-│
-└── Screenshots/
-    ├── overview.png
-    ├── patient-admission.png
-    ├── hospital-operations.png
-    ├── billing-payment.png
-    ├── drug-treatment.png
-    └── insurance.png
-```
 
 ---
 
